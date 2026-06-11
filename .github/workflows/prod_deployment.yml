@@ -14,7 +14,7 @@ on:
     branches:
       - main
     paths:
-      - 'bakehosue_analytics/**'
+      - 'bakehouse_analytics/**'
 
 jobs:
   deploy:
